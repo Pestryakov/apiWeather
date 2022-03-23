@@ -1,0 +1,35 @@
+html, body {
+    font-family: serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    margin: 20px;
+}
+
+/* .pricing-table{
+    display: block;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    text-align: center;
+} */
+
+.weather{
+  display: block;
+}
+.out {
+margin-top: 10px;
+height: 50%;
+width: 40vh;
+border: 2px solid black;
+text-align: center;
+background-color:aliceblue;
+}
+
+p{
+
+    font-weight: bold;
+    font-size: 20px;
+}
+
